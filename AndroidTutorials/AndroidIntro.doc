@@ -57,7 +57,7 @@
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch - Our target operating system e.g Android OS or iOS.}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch - The programming language in use(what we are good at) e.g. Java or Swift.}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\par}
-\pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch We can classify the apps into:}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch We can classify the mobile apps into:}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab -  Native applications}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab - Hybrid Applications}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Whats the difference? }{\s29\f0\fs24\lang1033{\*\listtag0}\par}
@@ -100,7 +100,7 @@
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Android Architecture}{\s29\f0\fs24\b\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\*\shppict{\pict\pngblip\picw724\pich522\picwgoal14480\picscalex61\pichgoal10440\picscaley75
-\bliptag10026{\*\blipuid 0000000000000000000000000000272a}
+\bliptag10033{\*\blipuid 00000000000000000000000000002731}
 89504e470d0a1a0a0000000d49484452000002d40000020a08020000008c7b4f
 f8000000017352474200aece1ce90000000467414d410000b18f0bfc61050000
 00097048597300000ec300000ec301c76fa8640000ffa549444154785eecbd07
@@ -2341,7 +2341,7 @@ e7702c100806103441b3a72822c84143edd5abd7ff03a5348be9ce0075dd0000
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\b\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\b\lang1033{\*\listtag0}\abinodiroverride\ltrch First: }{\s29\f0\fs24\lang1033{\*\listtag0}Click Next to proceed }{\s29\f0\fs24\b\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\*\shppict{\pict\jpegblip\picw662\pich534\picwgoal13239\picscalex67\pichgoal10680\picscaley74
-\bliptag10027{\*\blipuid 0000000000000000000000000000272b}
+\bliptag10034{\*\blipuid 00000000000000000000000000002732}
 ffd8ffe000104a46494600010101007800780000ffdb00430002010102010102
 02020202020202030503030303030604040305070607070706070708090b0908
 080a0807070a0d0a0a0b0c0c0c0c07090e0f0d0c0e0b0c0c0cffdb0043010202
@@ -4240,7 +4240,7 @@ d9740fd8d31b800eecb7dc80f449684000e400001c6e10e0db23000038441c22
 73b84390000000001fffd9}}{\s29\f0\fs24\b\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch  }{\s29\f0\fs24\b\lang1033{\*\listtag0}Second: You will go through several steps}{\s29\f0\fs24\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\*\shppict{\pict\jpegblip\picw665\pich531\picwgoal13299\picscalex41\pichgoal10620\picscaley34
-\bliptag10028{\*\blipuid 0000000000000000000000000000272c}
+\bliptag10035{\*\blipuid 00000000000000000000000000002733}
 ffd8ffe000104a46494600010101007800780000ffdb00430002010102010102
 02020202020202030503030303030604040305070607070706070708090b0908
 080a0807070a0d0a0a0b0c0c0c0c07090e0f0d0c0e0b0c0c0cffdb0043010202
@@ -5697,7 +5697,7 @@ d0400006820d0400006820d0400006820d0400006820d0400006820d04000068
 0d0400006820d0400006820d040000e400000000007fffd9}}{\s29\f0\fs24\b\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\b\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Third: You will encounter such, thats why you need some good Internet }{\*\shppict{\pict\jpegblip\picw615\pich123\picwgoal12300\picscalex72\pichgoal2459\picscaley74
-\bliptag10029{\*\blipuid 0000000000000000000000000000272d}
+\bliptag10036{\*\blipuid 00000000000000000000000000002734}
 ffd8ffe000104a46494600010101007800780000ffdb00430002010102010102
 02020202020202030503030303030604040305070607070706070708090b0908
 080a0807070a0d0a0a0b0c0c0c0c07090e0f0d0c0e0b0c0c0cffdb0043010202
@@ -6246,7 +6246,7 @@ cf5704ca7d16b03e6e77fe329c1329f45ac0f9b9dff8ca96695c8ea44dc1329f
 fe329c1329f45ac0f9b9dff8ca966940792c27653ac6b866d1b6df2a899ec042
 b38d5d540c2648ea22811330904c002251128ead6003abfe0295eb69407fffd9}}{\s29\f0\fs24\b\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Fourth: You will be required to select the theme}{\*\shppict{\pict\jpegblip\picw1021\pich785\picwgoal20420\picscalex37\pichgoal15700\picscaley30
-\bliptag10030{\*\blipuid 0000000000000000000000000000272e}
+\bliptag10037{\*\blipuid 00000000000000000000000000002735}
 ffd8ffe000104a46494600010101007800780000ffdb00430002010102010102
 02020202020202030503030303030604040305070607070706070708090b0908
 080a0807070a0d0a0a0b0c0c0c0c07090e0f0d0c0e0b0c0c0cffdb0043010202
@@ -9804,7 +9804,7 @@ c196491b1b742249f00edb14c26cb8001f0a641d9a4b70cab4d649dc438b4c6a
 0000000000000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000fa000039a3a521fa0000
 ffd9}}{\*\shppict{\pict\jpegblip\picw1020\pich788\picwgoal20400\picscalex43\pichgoal15759\picscaley46
-\bliptag10031{\*\blipuid 0000000000000000000000000000272f}
+\bliptag10038{\*\blipuid 00000000000000000000000000002736}
 ffd8ffe000104a46494600010101007800780000ffdb00430002010102010102
 02020202020202030503030303030604040305070607070706070708090b0908
 080a0807070a0d0a0a0b0c0c0c0c07090e0f0d0c0e0b0c0c0cffdb0043010202
@@ -12706,7 +12706,7 @@ ffd9}}{\s29\f0\fs24\b\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\b\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\s29\f0\fs24\b\lang1033{\*\listtag0}\abinodiroverride\ltrch LETS CODE OUR FIRST ANDROID APP:}{\s29\f0\fs24\b\lang1033{\*\listtag0}\par}
 \pard\plain\ltrpar\ql\s29\sl240\slmult1\itap0{\*\shppict{\pict\jpegblip\picw867\pich651\picwgoal17340\picscalex51\pichgoal13020\picscaley74
-\bliptag10032{\*\blipuid 00000000000000000000000000002730}
+\bliptag10039{\*\blipuid 00000000000000000000000000002737}
 ffd8ffe000104a46494600010101007800780000ffdb00430002010102010102
 02020202020202030503030303030604040305070607070706070708090b0908
 080a0807070a0d0a0a0b0c0c0c0c07090e0f0d0c0e0b0c0c0cffdb0043010202
